@@ -93,18 +93,18 @@ a {
 }
 
 a:hover {
-  color:#069;
+  color:#013220;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#32cd32;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#013220;
 }
 
 .wrapper {
