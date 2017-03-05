@@ -63,7 +63,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#FF6600;
   margin:0 0 20px;
 }
 
@@ -80,11 +80,11 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#FFa500;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#FFa501
 }
 
 a {
