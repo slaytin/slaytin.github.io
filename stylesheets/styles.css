@@ -55,10 +55,10 @@
 }
 
 body {
-  background-color: #fff;
+  background-color: rgb(160,82,45);
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color:#FF0;
   font-weight:400;
 }
 
