@@ -110,7 +110,7 @@ a:hover small {
 }
 
 .sec2 {
-  float: center;
+  float: center !important;
 
 }
 .wrapper {
