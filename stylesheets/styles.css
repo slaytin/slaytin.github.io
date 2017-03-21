@@ -84,6 +84,7 @@ h1 {
 h2 {
   color:#e3be42 !important;
   border-bottom: 2px solid;
+  text-align: right;
 }
 
 h3, h4, h5, h6 {
