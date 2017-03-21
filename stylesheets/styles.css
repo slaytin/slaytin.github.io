@@ -136,6 +136,11 @@ pre {
   overflow-x: auto;
 }
 
+.sec2{
+  float: center;
+
+}
+
 table {
   width:100%;
   border-collapse:collapse;
