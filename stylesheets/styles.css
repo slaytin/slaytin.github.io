@@ -109,6 +109,10 @@ a:hover small {
   color:#FFa499;
 }
 
+.sec2 {
+  float: center;
+
+}
 .wrapper {
   width:760px;
   margin:0 auto;
