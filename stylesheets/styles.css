@@ -63,6 +63,10 @@ body {
   font-weight:400;
 }
 
+#thumbImg{
+  float:center;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#FF6600;
   margin:0 0 20px;
